@@ -1,0 +1,1 @@
+This video is going to explain Graph Attention Networks in less than five minutes. If you like this sort of content, consider signing up for my online course, Introduction to Graph Neural Networks. A link will be in the description below.
